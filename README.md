@@ -2,6 +2,9 @@
 
 No 1
 
+`dgeom(x, prob)` adalah probabilitas `x` kegagalan sebelum kesuksesan pertama (perhatikan perbedaannya) ketika probabilitas kesuksesan adalah `prob`.
+`rgeom(x, prob)` adalah jumlah kegagalan ketika probabilitas kesuksesan adalah `prob` dengan `x` percobaan.
+
 ![alt text](https://github.com/fannyfaizul/praktikum1probskuy/blob/main/img/Rplot01.png)
 
 Histogram Distribusi Geometrik Peluang X Gagal Sebelum Sukses Pertama

@@ -4,7 +4,7 @@ p = 0.2
 n = 3
 dgeom(x = n, prob = p)
 
-#b
+#b 
 #set.seed(10000)
 mean(rgeom(n = 10000, prob = p) == 3)
 

@@ -4,7 +4,7 @@
 lambda = 3
 #jika bilangan random sejumlah n=10
 rexp(10,rate = lambda)
-
+ 
 #b
 #n = 10
 lambda = 3

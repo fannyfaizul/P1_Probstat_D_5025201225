@@ -21,7 +21,7 @@ hist(p,
 df = 10
 ratarata = df
 ratarata
-
+ 
 #variansi
 df == 10
 variansi = 2*df

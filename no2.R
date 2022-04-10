@@ -2,7 +2,7 @@
 #a
 set.seed(0)
 dbinom(x=4,20,0.2)
-
+ 
 #b
 set.seed(0)
 data <- rbinom(20,20,0.2)

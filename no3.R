@@ -21,7 +21,7 @@ babies %>% ggplot() +
        y = 'Proportion',
        title = '365 simulated births in a hospital with Pois(lambda = 4.5)') +
   theme_bw()
-
+ 
 #c
 set.seed(0)
 babies <- data.frame('data' = rpois(365, 4.5))
